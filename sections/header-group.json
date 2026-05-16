@@ -48,7 +48,7 @@
       "settings": {
         "logo_height": 66,
         "mobile_logo_height": 50,
-        "logo_position": "top-center",
+        "logo_position": "off-canvas",
         "menu": "main-menu",
         "menu_mobile": "main-menu",
         "enable_dropdown_menu": true,
