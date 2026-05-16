@@ -54,7 +54,7 @@
         "custom_liquid_H9DXEK": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Cordless & Rechargeable</span> – Style your hair anywhere without needing an outlet.<br><br>\n\n<span style=\"font-weight: bold;\">🔥 Fast, Even Heating</span> –  Advanced ceramic technology smooths hair quickly with less frizz.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ Adjustable Heat Settings</span> – Suitable for fine, thick, curly, or treated hair.<br><br>\n\n<span style=\"font-weight: bold;\">💫 Smooth, Tangle-Free Results</span> –  Glides gently through hair for a sleek, shiny finish.\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Deep Hydration & Glow</span> – Helps keep skin hydrated, smooth, and visibly radiant throughout the day.<br><br>\n\n<span style=\"font-weight: bold;\">💖 Firming & Elasticity Support</span> – Powered by peptides and collagen to improve the look of firmer, healthier-looking skin.<br><br>\n\n<span style=\"font-weight: bold;\">🛡️ Strengthens Skin Barrier</span> – Ceramides help lock in moisture while supporting and protecting the skin barrier.<br><br>\n\n<span style=\"font-weight: bold;\">💫 Lightweight, Non-Sticky Texture</span> – Fast-absorbing serum that layers perfectly under makeup or nighttime skincare routines.\n\n</div>"
           }
         },
         "variant_picker": {
@@ -140,7 +140,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Welcome to our store",
+            "text": "Morning skincare routines",
             "text_size": 20,
             "link": ""
           }
@@ -194,7 +194,7 @@
         "heading_aDBdaf": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Why You’ll Love It",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -202,7 +202,7 @@
         "text_p4ngJX": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>✔ Helps improve skin firmness & elasticity<br/>✔ Gives a healthy glass-skin glow<br/>✔ Deeply hydrates and smooths the skin<br/>✔ Supports and strengthens the skin barrier<br/>✔ Lightweight, non-sticky texture<br/>✔ Perfect for dull, tired, or dehydrated skin<br/>✔ Suitable for all skin types<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -214,6 +214,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1776429354_phpm55nrtnq8b77bby41w0.webp",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -227,6 +228,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -246,7 +248,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Welcome to our store",
+            "text": "Night repair routines",
             "text_size": 20,
             "link": ""
           }
@@ -275,7 +277,7 @@
         "heading_zHhUwX": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Reveal Firmer, Glowing & Healthier-Looking Skin",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -283,7 +285,7 @@
         "text_APKJgC": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Transform your skincare routine with the viral EQQUALBERRY NAD+ Peptide Boosting Serum. An advanced Korean skincare formula designed to deeply hydrate, visibly firm, and revive tired-looking skin.<br/><br/>Powered by NAD+, 14 Peptides, Vegan Collagen, and 5 Ceramides, this lightweight serum helps improve skin elasticity while supporting a smoother, plumper, and radiant complexion without any greasy feeling.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -295,6 +297,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1776429354_phphsj6e1se5rkkfTqNquz.webp",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -308,6 +311,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
