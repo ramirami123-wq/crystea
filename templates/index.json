@@ -15,6 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/istockphoto-1265032285-612x612.jpg",
             "image_position": "center center",
             "text_box_position": "bottom-right",
             "subheading": "",
@@ -87,23 +88,23 @@
         "padding_bottom": 36
       }
     },
-    "scrolling_promotion_gqQrxK": {
+    "scrolling_promotion_yJEgih": {
       "type": "scrolling-promotion",
       "blocks": {
-        "announcement_V6HCmb": {
+        "announcement_pGUAFw": {
           "type": "announcement",
           "settings": {
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Youngevity",
+            "text": "Your glow starts here",
             "text_size": 20,
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement_V6HCmb"
+        "announcement_pGUAFw"
       ],
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
@@ -125,7 +126,7 @@
         "heading_NEyD4Q": {
           "type": "heading",
           "settings": {
-            "heading": "AT Youngevity",
+            "heading": "AT Crystéa",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -133,7 +134,7 @@
         "text_z3jQfd": {
           "type": "text",
           "settings": {
-            "text": "<p>we believe that confidence begins with a healthy smile. Our mission is to create innovative, easy-to-use oral care solutions that help you maintain professional-level hygiene from the comfort of your home.</p><p>We combine modern technology with thoughtful design to deliver products that are effective, safe, and convenient for everyday use. From powerful sonic cleaning to user-friendly features, every Youngevity product is crafted to support your journey toward better oral health.</p>",
+            "text": "<p>We believe that confidence begins with healthy, glowing skin. Our mission is to create innovative, easy-to-use beauty products that help you achieve professional-level skincare results from the comfort of your home.</p><p>We combine modern skincare science with thoughtfully selected ingredients to deliver products that are effective, gentle, and suitable for everyday use. From deep hydration to skin-firming solutions, every product is crafted to support your journey toward healthier, smoother, and more radiant-looking skin.</p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "",
@@ -163,23 +164,23 @@
         "padding_bottom": 36
       }
     },
-    "scrolling_promotion_yJEgih": {
+    "scrolling_promotion_gqQrxK": {
       "type": "scrolling-promotion",
       "blocks": {
-        "announcement_pGUAFw": {
+        "announcement_V6HCmb": {
           "type": "announcement",
           "settings": {
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "WELCOME TO YOUNGEVITY",
+            "text": "Delivery All Over  Lebanon",
             "text_size": 20,
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement_pGUAFw"
+        "announcement_V6HCmb"
       ],
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
@@ -201,29 +202,45 @@
         "question_yNkDQY": {
           "type": "question",
           "settings": {
-            "title": "Is the Youngevity Sonic Dental Scaler safe to use at home?",
-            "text": "<p>Yes! The device is designed for safe at-home use. It features gentle yet powerful sonic vibrations and multiple modes to suit different sensitivity levels.</p>"
+            "title": "Are your products safe to use?",
+            "text": "<p>Yes ✨ Our products are carefully formulated with skin-friendly ingredients and are suitable for everyday use. We focus on creating gentle yet effective skincare solutions for all skin types.</p><h3></h3>"
           }
         },
         "question_YmRBPG": {
           "type": "question",
           "settings": {
-            "title": "Does it hurt to use?",
-            "text": "<p>When used correctly, it should not hurt. If you have sensitive gums, start with the lowest setting and gently guide the tip along your teeth.<br/></p>"
+            "title": "Are your products high quality?",
+            "text": "<p>Absolutely. We use high-quality ingredients and modern skincare formulations to deliver products that help hydrate, nourish, and improve the appearance of your skin.</p><h3></h3>"
           }
         },
         "question_9WMfD8": {
           "type": "question",
           "settings": {
-            "title": "Is it waterproof?",
-            "text": "<p>Yes, the Youngevity Sonic Dental Scaler is waterproof, making it safe for use in the bathroom and easy to clean after each use.<br/></p>"
+            "title": "How can I contact you?",
+            "text": "<p>You can easily reach us through WhatsApp for any questions, order support, or product recommendations. We’re always happy to help 💬</p><h3></h3>"
+          }
+        },
+        "question_d9A3At": {
+          "type": "question",
+          "settings": {
+            "title": "How long does delivery take?",
+            "text": "<p>Delivery usually takes <strong>5–7 business days</strong> depending on your location. You’ll receive tracking updates once your order has been shipped.</p><h3></h3>"
+          }
+        },
+        "question_CW4DkK": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use the products daily?",
+            "text": "<p>Yes! Most of our skincare products are designed for daily use as part of your morning and night skincare routine.</p>"
           }
         }
       },
       "block_order": [
         "question_yNkDQY",
         "question_YmRBPG",
-        "question_9WMfD8"
+        "question_9WMfD8",
+        "question_d9A3At",
+        "question_CW4DkK"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {
@@ -294,9 +311,9 @@
   "order": [
     "slideshow",
     "featured_collection_LETdBM",
-    "scrolling_promotion_gqQrxK",
-    "rich_text_iPTEGL",
     "scrolling_promotion_yJEgih",
+    "rich_text_iPTEGL",
+    "scrolling_promotion_gqQrxK",
     "faq_VkHiGm",
     "guarantees_QbnCCW"
   ]
