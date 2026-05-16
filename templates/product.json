@@ -328,21 +328,21 @@
         "ai_gen_block_c856904_QBTtxf": {
           "type": "ai_gen_block_c856904",
           "settings": {
-            "header_col_1": "Feature",
-            "header_col_2": "Benefit",
-            "header_col_3": "Details",
-            "row_1_col_1": "Quality materials",
-            "row_1_col_2": "Long-lasting durability",
-            "row_1_col_3": "Premium construction",
-            "row_2_col_1": "Fast shipping",
-            "row_2_col_2": "Quick delivery",
-            "row_2_col_3": "2-3 business days",
-            "row_3_col_1": "Easy returns",
-            "row_3_col_2": "Hassle-free process",
-            "row_3_col_3": "30-day guarantee",
-            "row_4_col_1": "Customer support",
-            "row_4_col_2": "Expert assistance",
-            "row_4_col_3": "24/7 availability",
+            "header_col_1": "Benefits",
+            "header_col_2": "Us",
+            "header_col_3": "Others",
+            "row_1_col_1": "Firming & Elasticity Support",
+            "row_1_col_2": "✅",
+            "row_1_col_3": "❌",
+            "row_2_col_1": "Lightweight & Non-Sticky",
+            "row_2_col_2": "✅",
+            "row_2_col_3": "❌",
+            "row_3_col_1": "Supports Skin Barrier",
+            "row_3_col_2": "✅",
+            "row_3_col_3": "❌",
+            "row_4_col_1": "Peptides & Ceramides Formula",
+            "row_4_col_2": "✅",
+            "row_4_col_3": "❌",
             "header_background": "#8e386c",
             "header_text_color": "#ffffff",
             "row_odd_background": "#f3f3f3",
@@ -373,21 +373,45 @@
         "question_gF8NaD": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "title": "What does this serum help with?",
+            "text": "<p>This serum helps hydrate, firm, and brighten the skin while improving the appearance of smoothness, elasticity, and overall glow.</p><h3></h3>"
           }
         },
         "question_KeT9xF": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "title": "How do I use it?",
+            "text": "<p>Apply 2–3 drops onto clean skin, gently pat until absorbed, then follow with moisturizer.</p><h3></h3><h3></h3>"
+          }
+        },
+        "question_MwjXqy": {
+          "type": "question",
+          "settings": {
+            "title": "Will it feel greasy or sticky?",
+            "text": "<p>No. The lightweight watery-serum texture absorbs quickly into the skin without leaving a sticky or oily finish.</p><h3></h3>"
+          }
+        },
+        "question_wb7Emq": {
+          "type": "question",
+          "settings": {
+            "title": "When will I start seeing results?",
+            "text": "<p>Many users notice smoother and more hydrated skin after the first few uses. Continued use helps improve firmness and glow over time.</p><h3></h3>"
+          }
+        },
+        "question_PMzWdW": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use it under makeup?",
+            "text": "<p>Absolutely 💄 Its fast-absorbing texture makes it perfect for layering under makeup.</p><h3></h3>"
           }
         }
       },
       "block_order": [
         "question_gF8NaD",
-        "question_KeT9xF"
+        "question_KeT9xF",
+        "question_MwjXqy",
+        "question_wb7Emq",
+        "question_PMzWdW"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {
