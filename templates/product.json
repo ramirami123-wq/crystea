@@ -134,20 +134,68 @@
     "scrolling_promotion_F6kgaG": {
       "type": "scrolling-promotion",
       "blocks": {
+        "announcement_Dwz6Jr": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "🔥 The Multi-Use Pencil Everyone's Talking About — Get Yours Now",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_cJyXBJ": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "✅ Dermatologist-Tested &amp; Safe for Sensitive Skin",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_txh7Nx": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "🛍️ Private Label Ready — Launch Your Own Beauty Line Today",
+            "text_size": 20,
+            "link": ""
+          }
+        },
         "announcement_3qgeJ9": {
           "type": "announcement",
           "settings": {
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Morning skincare routines",
+            "text": "🖊️ One Pencil. Four Powers. Infinite Looks.",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_KKpqFp": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "💫 Your Brows, Lips &amp; Eyes Deserve the Best — Meet Your New Go-To Pencil",
             "text_size": 20,
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement_3qgeJ9"
+        "announcement_Dwz6Jr",
+        "announcement_cJyXBJ",
+        "announcement_txh7Nx",
+        "announcement_3qgeJ9",
+        "announcement_KKpqFp"
       ],
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
@@ -194,7 +242,7 @@
         "heading_aDBdaf": {
           "type": "heading",
           "settings": {
-            "heading": "Why You’ll Love It",
+            "heading": "One Pen. Endless Looks.",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -202,7 +250,7 @@
         "text_p4ngJX": {
           "type": "text",
           "settings": {
-            "text": "<p>✔ Helps improve skin firmness & elasticity<br/>✔ Gives a healthy glass-skin glow<br/>✔ Deeply hydrates and smooths the skin<br/>✔ Supports and strengthens the skin barrier<br/>✔ Lightweight, non-sticky texture<br/>✔ Perfect for dull, tired, or dehydrated skin<br/>✔ Suitable for all skin types<br/><br/></p>",
+            "text": "<p>Effortless beauty on the go. Our 4-in-1 Makeup Pen is your secret to flawless looks anywhere, anytime. One elegant twist delivers precision eyeliner, sculpting brow liner, luxe lip liner, and luminous highlighter—all the artistry you need, beautifully simplified.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -214,7 +262,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1776429354_phpm55nrtnq8b77bby41w0.webp",
+        "image": "shopify://shop_images/WhatsAppImage2026-06-26at3.26.22AM_1.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -248,7 +296,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Night repair routines",
+            "text": "✨ 4-in-1 Beauty Essential — Lip Liner, Eyeliner, Brow Pencil &amp; Highlighter in One • 💄 Define. Highlight. Slay. — Shop the 4-Color Pencil Now • 🌟 Private Label Available — Build Your Brand with Our Bestselling Multi-Use Pencil • 💋 Long-Wear &amp; Smudge-Proof Formula — All-Day Flawless Look • 🎨 4 Stunning Shades for Every Skin Tone — One Pencil, Endless Looks",
             "text_size": 20,
             "link": ""
           }
@@ -277,7 +325,7 @@
         "heading_zHhUwX": {
           "type": "heading",
           "settings": {
-            "heading": "Reveal Firmer, Glowing & Healthier-Looking Skin",
+            "heading": "Your Whole Makeup Bag. In One Pen.",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -285,7 +333,7 @@
         "text_APKJgC": {
           "type": "text",
           "settings": {
-            "text": "<p>Transform your skincare routine with the viral EQQUALBERRY NAD+ Peptide Boosting Serum. An advanced Korean skincare formula designed to deeply hydrate, visibly firm, and revive tired-looking skin.<br/><br/>Powered by NAD+, 14 Peptides, Vegan Collagen, and 5 Ceramides, this lightweight serum helps improve skin elasticity while supporting a smoother, plumper, and radiant complexion without any greasy feeling.<br/><br/></p>",
+            "text": "<p>Elegance redefined. Four essential beauty tools—eyeliner, brow liner, lip liner, and highlighter—seamlessly unified in one luxurious twist pen. Slip it into your pocket, your clutch, or your travel bag. Wherever beauty takes you, Crystéa's 4-in-1 Makeup Pen is your sophisticated companion.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -297,7 +345,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1776429354_phphsj6e1se5rkkfTqNquz.webp",
+        "image": "shopify://shop_images/WhatsApp_Image_2026-06-26_at_3.26.23_AM.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -328,19 +376,19 @@
         "ai_gen_block_c856904_QBTtxf": {
           "type": "ai_gen_block_c856904",
           "settings": {
-            "header_col_1": "Benefits",
-            "header_col_2": "Us",
-            "header_col_3": "Others",
-            "row_1_col_1": "Firming & Elasticity Support",
+            "header_col_1": "Key Features",
+            "header_col_2": "Crystéa 4-in-1",
+            "header_col_3": "Standard Alternatives",
+            "row_1_col_1": "4-in-1 Multifunctional Design",
             "row_1_col_2": "✅",
             "row_1_col_3": "❌",
-            "row_2_col_1": "Lightweight & Non-Sticky",
+            "row_2_col_1": "Easy Twist Mechanism",
             "row_2_col_2": "✅",
             "row_2_col_3": "❌",
-            "row_3_col_1": "Supports Skin Barrier",
+            "row_3_col_1": "Travel-Friendly & Compact",
             "row_3_col_2": "✅",
             "row_3_col_3": "❌",
-            "row_4_col_1": "Peptides & Ceramides Formula",
+            "row_4_col_1": "Long-Lasting, Smudge-Proof Formula",
             "row_4_col_2": "✅",
             "row_4_col_3": "❌",
             "header_background": "#8e386c",
@@ -373,36 +421,36 @@
         "question_gF8NaD": {
           "type": "question",
           "settings": {
-            "title": "What does this serum help with?",
-            "text": "<p>This serum helps hydrate, firm, and brighten the skin while improving the appearance of smoothness, elasticity, and overall glow.</p><h3></h3>"
+            "title": "What can I use this pencil for?",
+            "text": "<p>This versatile 4-in-1 pencil works as a lip liner, eyeliner, eyebrow pencil, and highlighter — all in one sleek tool. Perfect for a complete look on the go.</p>"
           }
         },
         "question_KeT9xF": {
           "type": "question",
           "settings": {
-            "title": "How do I use it?",
-            "text": "<p>Apply 2–3 drops onto clean skin, gently pat until absorbed, then follow with moisturizer.</p><h3></h3><h3></h3>"
+            "title": "How many shades are included?",
+            "text": "<p>Each pencil features 4 carefully curated colors designed to complement a wide range of skin tones, giving you endless options for mixing and defining your look.</p>"
           }
         },
         "question_MwjXqy": {
           "type": "question",
           "settings": {
-            "title": "Will it feel greasy or sticky?",
-            "text": "<p>No. The lightweight watery-serum texture absorbs quickly into the skin without leaving a sticky or oily finish.</p><h3></h3>"
+            "title": "Is it long-lasting and smudge-proof?",
+            "text": "<p>Yes! The formula is designed for long wear and smudge resistance, keeping your lips, eyes, and brows defined all day without touch-ups.</p>"
           }
         },
         "question_wb7Emq": {
           "type": "question",
           "settings": {
-            "title": "When will I start seeing results?",
-            "text": "<p>Many users notice smoother and more hydrated skin after the first few uses. Continued use helps improve firmness and glow over time.</p><h3></h3>"
+            "title": "Is this product safe for sensitive eyes and skin?",
+            "text": "<p>Absolutely. The pencil is ophthalmologist-tested and formulated without harsh irritants, making it suitable for sensitive skin and contact lens wearers.</p>"
           }
         },
         "question_PMzWdW": {
           "type": "question",
           "settings": {
-            "title": "Can I use it under makeup?",
-            "text": "<p>Absolutely 💄 Its fast-absorbing texture makes it perfect for layering under makeup.</p><h3></h3>"
+            "title": "Can I private label this product for my brand?",
+            "text": "<p>Yes! This product is available for private labeling. You can customize the packaging, logo, and color selection to match your brand identity. Contact us for more details.</p>"
           }
         }
       },
@@ -418,7 +466,7 @@
         "narrow": false,
         "secondary_background": false,
         "show_divider": false,
-        "heading": "FAQs",
+        "heading": "Frequently Asked Questions",
         "heading_size": "h1",
         "heading_alignment": "left",
         "heading_tag": "h2",
